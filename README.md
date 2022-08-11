@@ -25,6 +25,8 @@ If you haven't already, fork and clone this lesson into your local environment.
 Navigate into its directory in the terminal, then run `code .` to open the files
 in Visual Studio Code.
 
+Make sure you also `npm install` all the dependencies so you can test your work as you go with `npm test`.
+
 ## Create an Ordered HTML List
 
 Think of a collection of things united by theme: Pokémon, Old-school MC's, Prime
@@ -249,7 +251,9 @@ Here's the full example code:
 
 When you're done, it is time to run this assignment's tests. Make sure that you
 have your HTML content in a file called `my_list.html` in order to pass the
-check. Type `learn test` and verify that your tests pass.
+check. Type `npm test` and verify that your tests pass.
+
+Once your test passes, go ahead and submit your assignment!
 
 ## Conclusion
 
